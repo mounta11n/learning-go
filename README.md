@@ -10,7 +10,7 @@
 **Interactive lessons**<br>https://tour.golang.org
 <br><br>
 
-##### Quotes
+#### Quotes
 
 *C is one of the most direct influences on Go*
 
